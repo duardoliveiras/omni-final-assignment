@@ -1,7 +1,7 @@
 # References
 
-- Kaggle: Brazilian Football Championship dataset by Jose Vitor Michelin.
-- Kaggle: Campeonato Brasileiro de Futebol dataset by Adao Duque.
+- Kaggle: Brazilian Football Championship dataset by Jose Vitor Michelin: https://www.kaggle.com/datasets/josevitormichelin/brazilian-football-championship-brasileiro
+- Kaggle: Campeonato Brasileiro de Futebol dataset by Adao Duque: https://www.kaggle.com/datasets/adaoduque/campeonato-brasileiro-de-futebol
 - Confederação Brasileira de Futebol (CBF): historical competition information.
 - pandas documentation: https://pandas.pydata.org/docs/
 - NumPy documentation: https://numpy.org/doc/
